@@ -1,0 +1,1 @@
+This simple program helps you calculate your FOREX risk before you execute trades. It also has a simple curency converter. It is built ontop of tkinter module and written in python.
